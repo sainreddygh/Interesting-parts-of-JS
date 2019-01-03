@@ -1,0 +1,19 @@
+{
+  "name": "interesting-parts-of-js",
+  "version": "0.1.0",
+  "description": "Interesting parts of Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sainreddygh/Interesting-parts-of-JS.git"
+  },
+  "author": "Sainath Reddy <nsainath.bits@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sainreddygh/Interesting-parts-of-JS/issues"
+  },
+  "homepage": "https://github.com/sainreddygh/Interesting-parts-of-JS#readme"
+}
